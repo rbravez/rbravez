@@ -1,6 +1,6 @@
 Hi there, I'm Raúl 👋
 
-💽 I recently graduated from my master's in Data Science, Big Data and Artifial Intelligence at UCM.
+💽 I recently graduated from my master's in Data Science, Big Data and Artificial Intelligence at UCM.
 
 📚 BSc Mathematics with specialization in pure Mathematics (Measure theory, Functional and Complex Analysis).
 
