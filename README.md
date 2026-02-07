@@ -4,7 +4,7 @@ Hi there, I'm Raúl 👋
 
 📚 BSc Mathematics with specialization in pure Mathematics (Measure theory, Functional and Complex Analysis).
 
-💼 Previous work experiences in fintech @finmid as a business analyst and @Zalando as a functional data engineer where I built and maintaned ETL & ELT data pipelines.
+💼 Experiences in fintech @finmid and in product analytics @Zalando where I built and maintaned ETL data pipelines.
 
 🌱 I am passionate about the whole data journey including infraestructure, modeling and evaluation and have a strong initiave for startup solutions.
 
