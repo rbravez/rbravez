@@ -2,7 +2,7 @@ Hi there, I'm Raúl 👋
 
 💽 I recently graduated from my master's in Data Science, Big Data and Artificial Intelligence at UCM.
 
-📚 BSc Mathematics with specialization in pure Mathematics (Measure theory, Functional and Complex Analysis).
+📚 BSc Mathematics with specialization in applied Mathematics at UNED.
 
 💼 Experiences in fintech @finmid and in product analytics @Zalando where I built and maintaned ETL data pipelines.
 
